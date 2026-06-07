@@ -7,7 +7,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About Me***
 
-I’m an **Information Technology student at AMA Computer College – Santiago** student, currently exploring the worlds of **web development, web applications, software development, Linux systems, and data-driven technologies**.
+I’m an **Information Technology student at AMA Computer College – Santiago**, currently exploring the worlds of **web development, web applications, software development, Linux systems, and data-driven technologies**.
 
 I enjoy building things that mix logic, creativity, and problem-solving. My current interests include **full-stack web development**, **Linux-based workflows**, **Rust**, **machine learning**, **game development**, **big data**, and **AI engineering**. I’m also interested in pursuing **Computer Science for my master’s degree** someday, where I hope to explore more mathematics, data science, and intelligent systems.
 
