@@ -17,6 +17,7 @@ I like learning how software works beneath the surface, from front-end interface
 * **Currently learning:** Rust, deeper web development, and data science foundations  
 * **Future goal:** To grow as a developer and explore the intersection of software development, AI, analytics, and computer science  
 * **Outside tech:** I like watching anime, listening to music, playing video games, and spending time with my cat, Ashe, who also wants to say “hi” 🐾
+* **I LOVE MY GF**
 
 ---
 
