@@ -5,7 +5,7 @@
 
 <img align="right" width="245px" alt="Unicorn" src="https://i.giphy.com/5T0c6PoltQQQ0STLnV.webp" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About Me***
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHh3Mm5kMTRrd3FwZm0yZm1tdTIxcXY5Nzg0ejR1bGwwOWN6N2x6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WSmGqKFwFXgWPulUqY/giphy.gif" width="30px">&nbsp;***About Me***
 
 I’m an **Information Technology student at AMA Computer College – Santiago**, currently exploring the worlds of **web development, web applications, software development, Linux systems, and data-driven technologies**.
 
