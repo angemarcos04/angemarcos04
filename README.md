@@ -8,9 +8,7 @@
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHh3Mm5kMTRrd3FwZm0yZm1tdTIxcXY5Nzg0ejR1bGwwOWN6N2x6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WSmGqKFwFXgWPulUqY/giphy.gif" width="30px">&nbsp;***About Me***
 
 I'm an **Information Technology student at AMA Computer College – Santiago** who likes building things that mix logic, creativity, and problem-solving. Full-stack web apps, Linux tooling, the occasional Rust project — that kind of thing. I run **Arch** and **Gentoo** and spend an unreasonable amount of time customizing my environment. Someday I want to go deeper into **machine learning, big data, and AI** — maybe through a **CS master's** if things go well.
-I am an **Information Technology** student from AMA Computer College, Santiago City, PH | 🚀
-
-- Member of **JPCS Santiago - Junior Philippine Computer Society** (2025 - present)
+- Member of [**JPCS Santiago - Junior Philippine Computer Society**](https://philippinecomputersociety.org/jpcs/) (2025 - present)
 - pretentious
 - angellie.marcos0104@protonmail.me
 Outside of code: anime, music, games, and my cat **Ashe** who also says hi 🐾 Also I love my gf :)
