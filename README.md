@@ -9,9 +9,8 @@
 
 I'm an **Information Technology student at AMA Computer College – Santiago** who likes building things that mix logic, creativity, and problem-solving. Full-stack web apps, Linux tooling, the occasional Rust project — that kind of thing. I run **Arch** and **Gentoo** and spend an unreasonable amount of time customizing my environment. Someday I want to go deeper into **machine learning, big data, and AI** — maybe through a **CS master's** if things go well.
 - Member of [**JPCS Santiago - Junior Philippine Computer Society**](https://philippinecomputersociety.org/jpcs/) (2025 - present)
-- pretentious
 - angellie.marcos0104@protonmail.me
-Outside of code: anime, music, games, and my cat **Ashe** who also says hi 🐾 Also I love my gf :)
+- Outside of code: anime, music, games, and my cat **Ashe** who also says hi 🐾 Also I love my gf :)
 
 ---
 <h4 align="center">Languages and Tools</h4>
