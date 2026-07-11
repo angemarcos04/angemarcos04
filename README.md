@@ -12,3 +12,4 @@ I'm an **Information Technology student at AMA Computer College – Santiago** w
 - angellie.marcos0104@protonmail.me
 - Outside of code: anime, music, games, and my cat **Ashe** who also says hi 🐾 Also I love my gf :)
 
+uhhhhhhhh... im on AI addiction now
